@@ -44,10 +44,6 @@ export const filterByCriteriaValue = (list, criteria, value) => {
   
 
 
-
-  
-
-
   export function getCharacters(films) {
     let characters = []
     for (let i = 0; i < films.length; i++) {

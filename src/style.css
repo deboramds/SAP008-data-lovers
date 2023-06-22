@@ -114,11 +114,6 @@ body {
 }
 
 
-.container-página-inicial{
-  background-color: #ffffff;
-
-}
-
 
 
 .lista-navegacao {
@@ -162,29 +157,29 @@ section {
 .card {
   display: inline-block;
   margin: 10px;
-  border: 1px solid #000;
   vertical-align: top;
   max-height: 100%;
+  background: #ffff;
+  padding: 15px;
+  box-shadow: 3px 3px 3px 4px rgb(228, 222, 222);
 }
 
 .card img {
   display: block;
   width: 300px;
   height: 300px;
-  border-radius: 50%;
+  object-fit: cover;
 }
 
 .card details {
   width: 300px;
   height: auto;
   display: inline-block;
-  color: #ffffff;
 }
 
 .card details summary {
   font-size: 18px;
   padding: 10px;
-  color: #ffffff;
 }
 
 .card details p {
@@ -194,7 +189,7 @@ section {
 
 
 
-.titulo-curiosidades{
+.titulo-secao {
   background-color: #ffff;
 }
 

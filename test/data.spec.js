@@ -56,7 +56,7 @@ const Lusheeta = {
   "age": "13",
   "eye_color": "Black",
   "hair_color": "Black",
-  "specie": "Human"
+  "specie": "Human",
 };
 
 const Pazu = {
@@ -67,7 +67,7 @@ const Pazu = {
   "age": "13",
   "eye_color": "Black",
   "hair_color": "Brown",
-  "specie": "Human"
+  "specie": "Human",
 };
 
 
