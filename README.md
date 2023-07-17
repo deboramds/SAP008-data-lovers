@@ -28,7 +28,6 @@ A escolha do tema para o projeto foi o Studio Ghibli.
 
 Studio Ghibli é um estúdio japonês de animação, muito conhecido por seus filmes como Meu Amigo Totoro, A Viagem de Chihiro, O Castelo Animado, entre outros grandes sucessos. As animações são bem recebidas em todo o mundo e algumas receberam várias nomeações e prêmios. De todo esse fandom há um grupo que deseja interagir e ver as informações das animações e seus personagens.
 
-
 Primeiramente, fizemos um fluxograma, para organizarmos cada etapa do projeto :
 
 ![Fluxograma](src/Imagem/fluxograma.jpg)
@@ -36,7 +35,7 @@ Primeiramente, fizemos um fluxograma, para organizarmos cada etapa do projeto :
 
 Depois utilizamos o Trello para organizar cada etapa, desenvolvimento e conclusão .
 
--imagem do trello .
+![Trello](src/Imagem/trello.png)
 
 
 A partir dessa proposta definimos que o site seria dividido em 4 páginas:
@@ -44,12 +43,12 @@ A partir dessa proposta definimos que o site seria dividido em 4 páginas:
 Pagina Inicial - Pensando na Fanbase do estúdio, implementamos dois links externos, um onde o fã é redirecionado a playlist dos filmes no spotify, e o outro onde é levado ao instagram oficial, para poderem apreciar imagens de seus filmes favoritos . 
     Ainda na página principal temos três botões, onde são direcionados para outras páginas, que são elas de filmes, traillers e personagens .
 
-
+![Gif](src/Imagem/Data-Lovers-gif.gif)
 
 
 Página de filmes - Possibilita a visualização de todos os filmes do estúdio com detalhes sobre cada um. Os filmes podem ser filtrados por diretor e produtor e ordenados de A-Z e Z-A .
 
-![Filmes](src/Imagem/Página%20Filmes.png)
+![Filmes](src/Imagem/pagina-filmes.png)
 
 
 Página de Personagens - Apresenta cards com todos os personagens que podem ser filtrados por gênero, masculino e feminino, nessa filtragem temos o cálculo em porcentagem de quantos personagens tem de cada gênero .
@@ -72,36 +71,20 @@ As animações possuem informações relevantes para nossos usuários, como desc
 Cada animação tem seus personagens e para nossos usuários é importante saber quantos e quais são
 Os personagens têm características únicas que o usuário deseja conhecer, como nome, idade, sexo, espécie, etc.
 
--imagem historia do usuario
-
 
 ## 3. Desenvolvimento da interface
 
-
 Após a primeira análise do projeto e dados disponíveis, fizemos o primeiro protótipo de baixa fidelidade . Decidimos que nossa Home Page contária com informações que o público se interessaria em ler, escutar e ver .
-
--imagenm do prototipo de baixa fidelidade
-
 
 Posteriormente fizemos o protótipo de alta fidelidade no Figma . Nele dividimos em duas telas, a inicial como o protótipo de baixa fidelidade, e a segunda , onde teriamos os posters e informações dos filmes . 
 
+No decorrer do projeto decidimos efetuar algumas mudanças em nosso projeto . A paleta de cores utilizada priorizou a cor rosa, com ilustrações de personagens dos filmes.
 
--imagem do figma 
-
-
-No decorrer do projeto decidimos efetuar algumas mudanças em nosso projeto . A paleta de cores utilizada priorizou a cor roxa, com ilustrações de personagens dos filmes.
-
--imagem da paleta de cores
-
-A imagem a seguir, do filme A Viagem de Chihiro, foi usada como inspiração para a escolha das cores:
-
-
--imagem do cabeçalho
-
+A paleta de cores do filme A Viagem de Chihiro, foi usada como inspiração para a escolha das cores.
 
 Imagens do Projeto Final :
 
--imagens
+![FullPage](src/Imagem/Data-Lovers-full.png)
 
 
 ## 4. Conteúdos implementados no projeto 
@@ -138,19 +121,17 @@ Uso de comandos de git (add | commit | pull | status | push)
 Gerenciar repositórios de GitHub (clone | fork | gh-pages)
 Colaboração no Github (branches | pull requests | |tags)
 
-## 5 . Tecnologias Utilizadas
-
+## 5 . Tecnologias e Ferramentas Utilizadas
 
 Js
+
 Node
+
 HTML
+
 CSS 
+
 Figma 
-vscode 
-github 
-git
-trello
-canva
 
 Vscode 
 
