@@ -33,9 +33,11 @@ Primeiramente, fizemos um fluxograma, para organizarmos cada etapa do projeto :
 
 ![Fluxograma](src/Imagem/fluxograma.jpg)
 
+
 Depois utilizamos o Trello para organizar cada etapa, desenvolvimento e conclusão .
 
 -imagem do trello .
+
 
 A partir dessa proposta definimos que o site seria dividido em 4 páginas:
 
@@ -44,13 +46,16 @@ Pagina Inicial - Pensando na Fanbase do estúdio, implementamos dois links exter
 
 
 
+
 Página de filmes - Possibilita a visualização de todos os filmes do estúdio com detalhes sobre cada um. Os filmes podem ser filtrados por diretor e produtor e ordenados de A-Z e Z-A .
 
 ![Filmes](src/Imagem/Página%20Filmes.png)
 
+
 Página de Personagens - Apresenta cards com todos os personagens que podem ser filtrados por gênero, masculino e feminino, nessa filtragem temos o cálculo em porcentagem de quantos personagens tem de cada gênero .
 
 ![Personagens](src/Imagem/pagina-personagens.png)
+
 
 Página de trailers -Nesta página temos todos trailers dos famosos filmes do estúdio . 
 
