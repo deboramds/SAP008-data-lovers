@@ -2,15 +2,20 @@
 
 # [ Link do Projeto em funcionamento](https://deboramds.github.io/SAP008-data-lovers/src/index.html)
 
+
 O objetivo principal deste projeto é que aprenda a desenhar e construir uma interface web onde se possa visualizar e manipular dados, entendendo o que o usuário necessita.
 
 ## Índice
 
-* [1. Introdução ao Projeto ](#1.Introdução-ao-Projeto)
-* [2. Histórias de Usuários ](#2.Histórias-de-Usuários)
-* [3. Desenvolvimento da Interface ](#3.Desenvolvimento-da-interface)
-* [4. Conteúdos implementados no projeto ](#4.Conteúdos-implementados-no-projeto)
-* [5. Tecnologias Utilizadas ](#5.Tecnologias-Utilizadas)
+- [Data Lovers - Studio Ghibli](#data-lovers---studio-ghibli)
+- [ Link do Projeto em funcionamento](#-link-do-projeto-em-funcionamento)
+  - [Índice](#índice)
+  - [1. Introdução ao Projeto](#1-introdução-ao-projeto)
+  - [2. Histórias de Usuários](#2-histórias-de-usuários)
+  - [3. Desenvolvimento da interface](#3-desenvolvimento-da-interface)
+  - [4. Conteúdos implementados no projeto](#4-conteúdos-implementados-no-projeto)
+  - [5 . Tecnologias e Ferramentas Utilizadas](#5--tecnologias-e-ferramentas-utilizadas)
+  - [6 . Colaboradoras](#6--colaboradoras)
 
 ***
 
@@ -26,10 +31,7 @@ Studio Ghibli é um estúdio japonês de animação, muito conhecido por seus fi
 
 Primeiramente, fizemos um fluxograma, para organizarmos cada etapa do projeto :
 
-- imagem do fluxograma 
-
-![Fluxograma]()
-
+![Fluxograma](src/Imagem/fluxograma.jpg)
 
 Depois utilizamos o Trello para organizar cada etapa, desenvolvimento e conclusão .
 
@@ -44,12 +46,13 @@ Pagina Inicial - Pensando na Fanbase do estúdio, implementamos dois links exter
 
 Página de filmes - Possibilita a visualização de todos os filmes do estúdio com detalhes sobre cada um. Os filmes podem ser filtrados por diretor e produtor e ordenados de A-Z e Z-A .
 
+![Filmes](src/Imagem/Página%20Filmes.png)
 
 Página de Personagens - Apresenta cards com todos os personagens que podem ser filtrados por gênero, masculino e feminino, nessa filtragem temos o cálculo em porcentagem de quantos personagens tem de cada gênero .
 
--imagem do cálculo agregado .
+![Personagens](src/Imagem/pagina-personagens.png)
 
-Página de traillers -Nesta página temos todos traillers dos famosos filmes do estúdio . 
+Página de trailers -Nesta página temos todos trailers dos famosos filmes do estúdio . 
 
 
 ## 2. Histórias de Usuários
@@ -143,3 +146,23 @@ github
 git
 trello
 canva
+
+Vscode 
+
+Github 
+
+Git
+
+Trello
+
+Canva
+
+
+## 6 . Colaboradoras
+
+Débora Martins
+
+Luciana Chamma Baptista
+
+
+
